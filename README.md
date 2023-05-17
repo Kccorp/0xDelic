@@ -28,5 +28,6 @@ Par déductions, sur le site https://dcode.fr/beaufort-cipher nous allons utilis
 
 
 
+![image](https://github.com/Kccorp/0xDelic/assets/85285247/6e874fe1-4d27-440f-be6c-7a519f89b1da)
 
 
